@@ -1,0 +1,4 @@
+q = &j;
+i = (*&)j;
+
+São as operações ilegais
