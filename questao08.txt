@@ -1,0 +1,1 @@
+A primeira configuração do programa mostra os elementos do vetor, enquanto o segundo programa (uma leve variação do primeiro), exibe os endereços dos elementos na memória.
