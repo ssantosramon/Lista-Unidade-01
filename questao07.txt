@@ -1,0 +1,4 @@
+    p = mat + 1;    Válida pois essa expressão incrementa o valor do ponteiro em uma unidade de memória, fazendo p apontar para o segundo elemento
+    p = mat++;      Inválida pois "mat" é um ponteiro fixo, seu valor não pode ser alterado
+    p = ++mat;      Inválida pois "mat" é um ponteiro fixo, seu valor não pode ser alterado
+    x = (*mat)++;   Válida pois nesse caso quem recebe o incremento é o conteúdo de "mat"
